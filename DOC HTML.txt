@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pill Ware Originals</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        .yellow { color: #FFD700; }
+        .cyan { color: #00FFFF; }
+        .magenta { color: #FF00FF; }
+        .green { color: #008000; }
+        .blue { color: #0000FF; }
+        .red { color: #FF0000; }
+        .white { color: #FFFFFF; }
+        .light-yellow { color: #FFFFE0; }
+        .light-cyan { color: #E0FFFF; }
+        .light-magenta { color: #FFB6C1; }
+        .light-green { color: #90EE90; }
+    </style>
+</head>
+<body>
+    <p>At <span class="yellow">Pill Ware Originals</span>, we believe that <span class="yellow">COMMUNITY</span> is more than just a word—it's the 
+       <span class="cyan">HEART</span> of everything we do. Our <span class="magenta">DESIGNS</span> aren't just about fashion; 
+       they're about <span class="green">BRINGING PEOPLE TOGETHER</span>, <span class="blue">CELEBRATING INDIVIDUALITY</span>, 
+       and <span class="red">FOSTERING CONNECTIONS</span>. Whether it's through a <span class="white">CUSTOM T-SHIRT</span> or a 
+       <span class="light-yellow">SHARED VISION</span>, we aim to create something special that <span class="light-cyan">RESONATES</span> 
+       with everyone. Join us on this journey where <span class="light-magenta">ORIGINALITY</span> meets <span class="yellow">COMMUNITY</span>, 
+       and let's make a <span class="light-green">DIFFERENCE TOGETHER</span>.</p>
+</body>
+</html>
